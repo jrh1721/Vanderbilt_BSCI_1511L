@@ -27,9 +27,10 @@ chisq.test(
   x = observedfreq,
   p = expectedfreq
 )
-# Did you get a warning message after this step? Good! Return to your homework
-# assignment document to see how to fix this and for an explanation of why this
-# occurred. NOTE: the script for the chi-squared test for p=0.7 is below.
+# Did you get a warning message right below your results after this step? Good! 
+# Return to your homework assignment document to see how to fix this and for an
+# explanation of why this occurred.
+# NOTE: the script for the chi-squared test for p=0.7 is below.
 # You will run this script just as you did the first one to get the data for that
 # population (for the other bead shaker). NOTE: you will have to do the same
 # "correction" after you run this test as you did in for the p=0.1 test in order
